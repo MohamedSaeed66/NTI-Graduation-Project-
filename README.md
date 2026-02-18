@@ -54,9 +54,8 @@ The system follows an AI pipeline architecture:
 1. Question Generation Module
 2. Candidate Response Input
 3. NLP Processing & Embedding
-4. Knowledge Base Retrieval (RAG)
-5. Evaluation Engine
-6. Feedback Generator
+4. Evaluation Engine
+5. Feedback Generator
 
 ---
 
@@ -163,7 +162,7 @@ focusing on building production-oriented AI systems combining NLP, LLMs, and eva
 
 ## 👨‍💻 Author
 
-**Mohamed Akrab**
+**Mohamed Saeed**
 AI Engineer | Data Scientist
 
 * NTI AI Track Graduate
